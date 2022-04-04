@@ -10,4 +10,10 @@ Sistemas Operativos
 
 Tercer Semestre
 
-El *Framework* que voy a usar es *NuxtJS* 
+El *Framework* que voy a usar es *Lume* 
+
+[Practica2](https://github.com/Riku935/Buen-repositorio-de-Sistemas/blob/So/SO.md)
+
+[Practica3](https://github.com/Riku935/Buen-repositorio-de-Sistemas/blob/redes/redes.md)
+
+[Practica4](https://github.com/Riku935/Buen-repositorio-de-Sistemas/blob/git/Git.md)
