@@ -10,7 +10,7 @@ Sistemas Operativos
 
 Tercer Semestre
 
-El *Framework* que voy a usar es *Lume* 
+El *Framework* que voy a usar es *Codedoc* 
 
 [Practica2](https://github.com/Riku935/Buen-repositorio-de-Sistemas/blob/So/SO.md)
 
