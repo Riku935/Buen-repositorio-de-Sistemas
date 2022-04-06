@@ -10,4 +10,4 @@ Sistemas Operativos
 
 Tercer Semestre
 
-El *Framework* que voy a usar es *NuxtJS* 
+El *Framework* que voy a usar es *Codedoc* 
